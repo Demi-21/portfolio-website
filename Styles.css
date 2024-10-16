@@ -1,0 +1,28 @@
+nav{
+    color: black;
+    background-color: aqua;
+    display: flex; 
+    gap: 300 px;
+}
+
+h1 {
+    color: violet;
+    border: 2px yellowgreen solid;
+    border
+}
+/*img{
+    border: 2px;
+    background-color: yellowgreen solid;
+    border-radius: 50px;
+}*/
+/*img:hover{
+    cursor: pointer;
+    scale: 2;
+    
+}*/
+.positive{
+    background-color: green;
+}
+.negative{
+    background-color: blue;
+}
